@@ -1,0 +1,32 @@
+---
+title: Lab Notebook 1
+tags: Notebook
+---
+
+# Lab Notebook
+## Entry 1
+### Github and Markdown: Or, How I learned to Stop Worrying and Love Github
+I have experience working with Markdown editors, specifically [Obsidian](https://obsidian.md/) (which I am using to type this entry). But, I have no experience working with Github. I read and watched several tutorials on working with Github and spent some time toying with Github's website interface. I had a smooth experience working with Github, Github Desktop, and Obsidian. The interaction between all three interfaces proved to be seamless.
+
+I have some experience designing my own websites (Wordpress). But, the ease and simplicity of Wordpress is a far cry from the initial complexity of Github. There are systems upon systems working in a seemingly tangled and frazzled mess to do what Wordpress does in seconds. Of course, there are also systems upon systems working in tandem with Wordpress as well but there's a critical difference in the user experience: I can't see when something goes wrong--and I mean really *wrong*--with Wordpress. In Github, waiting for a post to display on your site for the first time is an experience of a anxious waiting. A "Wow, I really hope this works". And when it inevitably does not work, we have to go back. We have to scour, search, poke and prod into our directory's and subfolders for that simple error. 
+
+My simple error was **bolding** the tags feature on my [test document](https://mrileysoriano.github.io/2022/01/26/Test-Document.html) markdown file. That error caused 1) the title to not display properly on the site, 2) the entire tag system to crash, and 3) an odd box to appear on my home page.
+
+These experiences may cause some users to throw up their hands. In fact, this user almost threw up his hands. But, after some slight tweaking and re-writing in my test document markdown file, I was greeted by a sense of calm. It was akin to the first experience of riding a bike. And I mean really riding a bike. You're not falling (although you still might), you're just moving. Getting things done, working, moving.
+
+In a word, there was something infectious about getting Github *working*. 
+
+### Statement and Description of Goals
+My research background is heavily steeped in Lacanian Psychoanalysis and Continental Philosophy. My interests extend, then, into the domain of contemporary literature and culture, the structure of serial fiction, and their relationships to trauma and its temporal structure. 
+
+In my brief search, there appears to be little substantive research between digital humanities scholarship and psychoanalytic metapsychology. This appears to me to be partly structural. It is possible that concepts in Lacanian theory are resistant to cooperation with computational methodology. But, as in the case of Rosenberg's "Data Before the Fact", computational methods are not the be all and end all of this field we identify as the "digital humanities". So, a question for myself: where are the conjunctions and disjunctions between Lacanian psychoanalysis and Digital Humanities research? This is not a question that I expect to answer in the duration of a single seminar but it is a question that I can begin to probe and interrogate over the span of our seminar. A particularly fruitful angle to help bridge the gap between psychoanalysis and digital humanities research can, I believe, be found in the relationship between **narrative studies**, **seriality studies**, and **trauma studies**. 
+
+With this in mind, I am particularly interested in exploring theoretical and methodological avenues of digital humanities research concerned with trauma and narrative studies. How do different DH scholars methodologically approach the concept of trauma? What tools are deployed? How is trauma theorized? How is trauma, narrative, and seriality visualized, computed, digitized, and rationalized in the scope of Digital Humanities research? What is the "data" component of trauma studies and narrative studies in the DH field? I understand that these are not easily answerable questions, nor are the answers singular. There are a wide variety of methods and approaches to handling, approaching, and contextualizing data. My interest is more survey-based: a survey of DH methods and their relationship to my research interests/theoretical background. 
+
+In addition to these aforementioned interests and goals, I am also interested in exploring and understanding the digital humanities relationship to media studies. Specifically, how do researchers use DH methods to analyze, for example, popular television programming, film, and video games? 
+
+I am, further, interested in the question of popular accessibility. While I agree that written communication is one of the most effective and powerful ways to critically analyze complex and difficult topics in a nuanced and informed manner, I also believe that scholarly work can and should expand into multi-media forms (podcasts, YouTube, blogs). Multi-media modes such as podcasting and YouTube are not new to the academy, but I believe DH is a field that is uniquely positioned to re-examine the academic, intellectual, and creative value of these digital forms of labor. Exploring this domain, although distinct from my previous goals, seems to be a worthwhile endeavor. 
+
+As it stands, my interests and goals are largely exploratory. I want to explore how DH interacts with my field(s) of interest. How can I bring DH methods into my research (psychoanalysis, narrative studies, trauma studies, and seriality studies) and how can my research position provide new ways of conceptualizing DH work?
+
+Finally, I want to experiment with Digital Humanities pedagogy and explore how DH methods can be incorporated into the classroom. The pedagogical angle, as was documented in the *Data Feminism* reading, was noteworthy for its straightforward and clear approach to the implementation of DH methods into the classroom. I will teach ENG 105 in the Fall, and I am interested in seeing how DH methods can be employed to assist students with, as an example, their discourse community assignments. The use of DH methods early on in an undergraduate career could be potentially helpful in raising student awareness of the different forms of humanities work. 
