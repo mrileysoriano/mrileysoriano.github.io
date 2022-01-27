@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Michael Soriano
 description: # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  This is the website of University of Miami graduate student Michael Soriano. At this time, this website is being used for ENG 612 Course Materials. 
 
 
 ## => Language and Timezone
