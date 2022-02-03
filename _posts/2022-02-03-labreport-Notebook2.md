@@ -7,8 +7,8 @@ tags: Notebook
 I will begin this section by explicating the information provided in the relevant links below (specifically, Post 1945 HathiTrust Database) and, specifically, the rationale motivating the presentation of the two pivot tables.
 
 Relevant Links:
-[Personal Post 1945 HathiTrust Spreadsheet](https://docs.google.com/spreadsheets/d/1amHrs3VCNm5jNxxeY4ehRwLyX8ltlBoyNyw2nnEOf34/edit?usp=sharing)
-[Personal Trans-Atlantic Slave Trade Spreadsheet](https://docs.google.com/spreadsheets/d/1YokJTFsyprZ0_zMq7zOeLj34mN-zR-x7Sr4ccmzh4Y4/edit?usp=sharing)
+- [Personal Post 1945 HathiTrust Spreadsheet](https://docs.google.com/spreadsheets/d/1amHrs3VCNm5jNxxeY4ehRwLyX8ltlBoyNyw2nnEOf34/edit?usp=sharing)
+- [Personal Trans-Atlantic Slave Trade Spreadsheet](https://docs.google.com/spreadsheets/d/1YokJTFsyprZ0_zMq7zOeLj34mN-zR-x7Sr4ccmzh4Y4/edit?usp=sharing)
 
 ###### Post45 HathiTrust Database
 Pivot Table 3: This pivot table graphically displays the frequency and usage of "War" in the titles of texts released after 1945. The sheet, and accompanying graph, uses the *inferreddate* metadata tab (the earliest date of publication for a given text) and the *title* metadata tab (the list of all entry titles in the HathiTrust database) to track the frequency of the keyword "War" in titles between 1945 and 2000.
