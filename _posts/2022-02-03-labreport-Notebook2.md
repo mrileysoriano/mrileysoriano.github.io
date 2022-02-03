@@ -4,7 +4,7 @@ tags: Notebook
 ---
 ### Post45 HathiTrust Dataset Exploration Notes
 ##### Part 1: Spreadsheet Woes
-I will begin this section by explicating the information provided in the relevant links below (specifically, Post 1945 HathiTrust Database) and, specifically, the rationale motivating the presentation of the two pivot tables.
+I will begin this section by explicating the information provided in the relevant links below (specifically, Post 1945 HathiTrust Database) and the rationale motivating the presentation of the two pivot tables.
 
 Relevant Links:
 - [Personal Post 1945 HathiTrust Spreadsheet](https://docs.google.com/spreadsheets/d/1amHrs3VCNm5jNxxeY4ehRwLyX8ltlBoyNyw2nnEOf34/edit?usp=sharing)
