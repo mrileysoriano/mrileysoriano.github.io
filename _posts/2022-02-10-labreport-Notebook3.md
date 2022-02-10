@@ -55,7 +55,7 @@ The Gay &amp; Lesbian Review Worldwide; Boston, MA
 "The Hispanic Outlook in Higher Education; [Paramus N.J
 ```
 
-1. [_%+,"?()\[\]]+
+1.[_%+,"?()\[\]]+
 
 ``````
 The Epoch Times New York ed.; New York NY
@@ -69,7 +69,8 @@ The Gay &amp; Lesbian Review Worldwide; Boston MA
 The Hispanic Outlook in Higher Education; Paramus N.J
 ``````
 
-2. RegEx: &amp;
+2.RegEx: &amp;
+
 2a. Sub: &
 	
 ``````
@@ -84,7 +85,8 @@ The Gay &amp; Lesbian Review Worldwide; Boston MA
 The Hispanic Outlook in Higher Education; Paramus N.J
 ``````
 	
-3. RegEx: ;
+3.RegEx: ;
+
 3a. Sub: ,
 
 ``````
@@ -99,7 +101,8 @@ The Gay & Lesbian Review Worldwide, Boston MA
 The Hispanic Outlook in Higher Education, Paramus N.J
 ``````
 
-4. RegEx: Colo.
+4.RegEx: Colo.
+
 4a. Sub: Denver CO
 
 ``````
@@ -114,7 +117,7 @@ The Gay & Lesbian Review Worldwide, Boston MA
 The Hispanic Outlook in Higher Education, Paramus N.J
 ``````
 	
-5. RegEx: MA
+5.RegEx: MA
 
 ``````
 The Epoch Times New York ed., New York NY
@@ -128,7 +131,8 @@ The Gay & Lesbian Review Worldwide, Boston
 The Hispanic Outlook in Higher Education, Paramus N.J
 ``````
 
-6. RegEx: Boston
+6.RegEx: Boston
+
 6a. Sub: Boston MA
 
 ``````
@@ -143,7 +147,8 @@ The Gay & Lesbian Review Worldwide, Boston MA
 The Hispanic Outlook in Higher Education, Paramus N.J
 ``````
 	
-7. RegEx: D.C.
+7.RegEx: D.C.
+
 7a. Sub: DC
 
 ``````
@@ -158,7 +163,8 @@ The Gay & Lesbian Review Worldwide, Boston MA
 The Hispanic Outlook in Higher Education, Paramus N.J
 ``````
 
-8. RegEx: WI.
+8.RegEx: WI.
+
 8a. Sub: WI
 
 ``````
@@ -173,7 +179,8 @@ The Gay & Lesbian Review Worldwide, Boston MA
 The Hispanic Outlook in Higher Education, Paramus N.J
 ``````
 	
-9. RegEx: Md.
+9.RegEx: Md.
+
 9a. Sub: MD
 
 ``````
@@ -188,7 +195,8 @@ The Gay & Lesbian Review Worldwide, Boston MA
 The Hispanic Outlook in Higher Education, Paramus N.J
 ``````
 	
-10. RegEx: Virginia
+10.RegEx: Virginia
+
 10a. Sub: VA
 
 ``````
@@ -203,7 +211,8 @@ The Gay & Lesbian Review Worldwide, Boston MA
 The Hispanic Outlook in Higher Education, Paramus N.J
 ``````
 	
-11. RegEx: N.J
+11.RegEx: N.J
+
 11a. Sub: NJ
 
 ``````
