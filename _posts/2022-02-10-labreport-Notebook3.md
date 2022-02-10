@@ -238,6 +238,6 @@ Further, these strategic framing and organization moves employed by researchers 
 
 Transparency is an effective practice for fostering data centric co-liberation. In a way, our blogs are built for precisely this purpose: openness and transparency.[^3]
 
-[^1]: Data Feminism, Chapter 5: https://data-feminism.mitpress.mit.edu/pub/2wu7aft8/release/3
+[^1]: [Data Feminism, Chapter 5](https://data-feminism.mitpress.mit.edu/pub/2wu7aft8/release/3)
 [^2]: To expand on the concept of Reflexivity, I am including a quote from Chapter 5 of Data Feminism: "This means disclosing your project’s methods, your decisions, and—importantly for work that strives to address injustice—your own positionalities."
 [^3]: Also, thanks to Claire and her Github repository for helping me figure out how to put these footnotes in!
