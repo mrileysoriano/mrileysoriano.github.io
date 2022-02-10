@@ -15,30 +15,30 @@ In this attempt I have **not** provided the results of each input. In my second 
 
 1. RegEx: ,
 2. RegEx: ;
-	Sub: ,
-3. RegEx: &amp,
-	Sub: &
-4. RegEx: [()]
-5. RegEx: [[] ]
-6. RegEx: ]
-7. RegEx: "
-8. RegEx: New York ed.
-9. RegEx: amp
-10. RegEx: Denver Colo.
-	Sub: Denver CO
-11. RegEx: MA
-12. RegEx: Boston
-	Sub: Boston MA
-12. RegEx: Washington D.C.
-	Sub: Washington DC
-13. RegEx: Hayward WI.[?]
-	Sub: Hayward WI
-14. RegEx: Baltimore Md.
-	Sub: Baltimore MD
-15. RegEx: Fairfax Virginia
-	Sub: Fairfax VA
-16. RegEx: Paramus N.J
-	Sub: Paramus NJ
+3. Sub: ,
+4. RegEx: &amp,
+5. Sub: &
+6. RegEx: [()]
+7. RegEx: [[] ]
+8. RegEx: ]
+9. RegEx: "
+10. RegEx: New York ed.
+11. RegEx: amp
+12. RegEx: Denver Colo.
+13. Sub: Denver CO
+14. RegEx: MA
+15. RegEx: Boston
+16. Sub: Boston MA
+17. RegEx: Washington D.C.
+18. Sub: Washington DC
+19. RegEx: Hayward WI.[?]
+20. Sub: Hayward WI
+21. RegEx: Baltimore Md.
+22. Sub: Baltimore MD
+23. RegEx: Fairfax Virginia
+24. Sub: Fairfax VA
+25. RegEx: Paramus N.J
+26. Sub: Paramus NJ
 
 ### Second Attempt
 
@@ -70,7 +70,7 @@ The Hispanic Outlook in Higher Education; Paramus N.J
 ``````
 
 2. RegEx: &amp;
-	Sub: &
+2a. Sub: &
 	
 ``````
 The Epoch Times New York ed.; New York NY
@@ -85,7 +85,7 @@ The Hispanic Outlook in Higher Education; Paramus N.J
 ``````
 	
 3. RegEx: ;
-	Sub: ,
+3a. Sub: ,
 
 ``````
 The Epoch Times New York ed., New York NY
@@ -100,7 +100,7 @@ The Hispanic Outlook in Higher Education, Paramus N.J
 ``````
 
 4. RegEx: Colo.
-	Sub: Denver CO
+4a. Sub: Denver CO
 
 ``````
 The Epoch Times New York ed., New York NY
@@ -129,7 +129,7 @@ The Hispanic Outlook in Higher Education, Paramus N.J
 ``````
 
 6. RegEx: Boston
-	Sub: Boston MA
+6a. Sub: Boston MA
 
 ``````
 The Epoch Times New York ed., New York NY
@@ -144,7 +144,7 @@ The Hispanic Outlook in Higher Education, Paramus N.J
 ``````
 	
 7. RegEx: D.C.
-	Sub: DC
+7a. Sub: DC
 
 ``````
 The Epoch Times New York ed., New York NY
@@ -159,7 +159,7 @@ The Hispanic Outlook in Higher Education, Paramus N.J
 ``````
 
 8. RegEx: WI.
-	Sub: WI
+8a. Sub: WI
 
 ``````
 The Epoch Times New York ed., New York NY
@@ -174,7 +174,7 @@ The Hispanic Outlook in Higher Education, Paramus N.J
 ``````
 	
 9. RegEx: Md.
-	Sub: MD
+9a. Sub: MD
 
 ``````
 The Epoch Times New York ed., New York NY
@@ -189,7 +189,7 @@ The Hispanic Outlook in Higher Education, Paramus N.J
 ``````
 	
 10. RegEx: Virginia
-	Sub: VA
+10a. Sub: VA
 
 ``````
 The Epoch Times New York ed., New York NY
@@ -204,7 +204,7 @@ The Hispanic Outlook in Higher Education, Paramus N.J
 ``````
 	
 11. RegEx: N.J
-	Sub: NJ
+11a. Sub: NJ
 
 ``````
 The Epoch Times New York ed., New York NY
