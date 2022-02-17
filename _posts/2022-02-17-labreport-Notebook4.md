@@ -14,17 +14,18 @@ tags: Notebook
 4. Looking through this list of terms and their “Comparison” values, what observations can you make about terms that are more likely to occur in the humanities corpus vs. terms that are more likely to occur in the science corpus? How are these terms different? 
 	1. For the purposes of comparison, I will select the five most positively skewed terms and the five most negatively skewed terms. Positively skewed terms tend to appear in statistically significant frequency within the humanities corpus. Negatively skewed terms tend to appear in statistically significant frequency within the sciences corpus. 
 	- Humanities
-		- students (0.00630)
-		- humanities (0.00545)
-		- faculty (0.00241)
-		- studies (0.00238)
-		- courses (0.00220)
+		 - students (0.00630)
+		 - humanities (0.00545)
+		 - faculty (0.00241)
+		 - studies (0.00238)
+		 - courses (0.00220)
+	
 	- Science
-		- science (-0.00254)
-		- research (-0.00224)
-		- researchers (-0.00147)
-		- scientists (-0.00145)
-		- health (-0.00120)
+		 - science (-0.00254)
+		 - research (-0.00224)
+		 - researchers (-0.00147)
+		 - scientists (-0.00145)
+		 - health (-0.00120)
 	
 	Based on the data above, we see that certain terms such as "students", "faculty", "studies", and "course" mediate discussions of the humanities and humanities research through the language of pedagogy and teaching. In fact, it is striking to note that in the humanities corpus "student" appears to be the most statistically significant term (based on relative frequency), whereas "science" is the most frequently used statistically significant term within the science corpus. Put another way, science research and researchers are highlighted for their contributions *as such*, whereas humanities newsletters are mediated through the language of teaching and pedagogy. 
 5. What tool(s) did you explore? What did this tool(s) help you to observe about this data and/or what did you learn about this data using this tool(s)? Alternatively, what did you _hope_ to learn about this data using this tool and how (or why) did reality seem to fall short of that expectation? 
