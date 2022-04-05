@@ -1,6 +1,6 @@
 ---
 title: Abstract
-tags: FinalProject
+tags: Final
 ---
 # Abstract
 **Title**: Binge-watching, Audience Participation, and Effects on the Body
